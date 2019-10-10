@@ -1,0 +1,59 @@
+.react-calendar__tile--active {
+    background: #ed6736 !important;
+    color: white;
+}
+
+.react-calendar__tile--hasActive {
+    color: white !important;
+    background: #ed6736 !important;
+}
+
+.DayPicker-Day--selected:not(.DayPicker-Day--disabled):not(.DayPicker-Day--outside) {
+    position: relative;
+    background-color:#4a90e2 !important;
+    color: #F0F8FF;
+}
+
+.DayPicker-Months {
+    font-size: 17.5px !important;
+    background-color: white !important;
+}
+.btn-primary.disabled, .btn-primary:disabled {
+    color: #fff;
+    background-color: #ed6736 !important;
+    border-color: #4d1a4a !important;
+}
+.btn-primary {
+background: #033C73 linear-gradient(180deg, #ee987a, #ee987a) repeat-x;
+border-color: #6d2946 !important;
+}
+
+p.hourdispo {
+   
+    font-weight: bold;
+    
+    width: 15%;
+    padding: 3px;
+    background-color: #4a90e2;
+    color: #ffffff;
+    font-size: 15px;
+}
+.table-datatable__root .css-zs23mm.sortable:hover {
+    background: #ed6736 !important;
+}
+
+
+.app-sidebar.sidebar-text-light .metismenu .metismenu-container .metismenu-link {
+    color: white !important;
+}
+.app-sidebar.sidebar-text-light .app-sidebar__heading {
+    color: white !important;
+}
+
+.opacity-06 {
+    opacity: 0.17 !important;
+}
+
+.scrollbar-container.ps {
+    background-color: rgba(58, 17, 77, 0.44) !important;
+}

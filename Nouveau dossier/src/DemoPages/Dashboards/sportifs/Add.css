@@ -1,0 +1,160 @@
+input {
+   
+    overflow: visible;
+    border: none;
+    border-bottom: 1px solid;
+    margin-top: 30px;
+}
+
+
+input[type="text"] {
+    width: 307px;
+}
+input[type="email"] {
+    width: 307px;
+}
+
+input[type="password"] {
+    width: 307px;
+}
+
+select {
+    
+    width: 337px;
+    border: none;
+    margin-top: 30px;
+    border-bottom: 1px solid;
+    position: relative;
+    left: -16px;
+}
+
+.btnsportifs {
+    text-align: center;
+    margin-top: 18px;
+}
+
+.MuiCardContent-root {
+    position: relative;
+    left:16px;
+}
+
+select#formGroupPagination {
+    position: relative;
+    top: -14px !important;
+    left: -1px !important;
+}
+
+input.form-control {
+    margin-top: 16px;
+}
+button.btn.btn-primary {
+    height: 39px;
+    top: 15px;
+}
+
+button.MuiButtonBase-root.MuiFab-root.MuiFab-secondary {
+    width: 33px;
+    position: relative;
+    top: 31px;
+    left: 43px;
+    height: 22px;
+    font-size: 14px;
+    background-color: #fc848c;
+}
+
+.input-icon {
+    position: relative;
+    top: 26px;
+    left: -17px;
+}
+
+.app-header__content {
+    background-image: linear-gradient(30deg, #f76b34, #360f4e) !important;
+}
+
+button.MuiButtonBase-root.MuiFab-root {
+    height: 33px;
+    width: 38px;
+}
+
+.table td, .table th {
+    padding: 10px !important;
+    padding: -0.25rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.MuiFab-root {
+    color: rgba(0, 0, 0, 0.87);
+    width: 38px !important;
+    height: 37px !important;
+}
+
+.app-theme-white.fixed-header .app-header__logo {
+    background: rgb(237, 103, 54) !important;
+}
+
+button.btn-submit {
+    color: white;
+    border: none;
+    width: 95px;
+    height: 37px;
+    background-color: #782e45;
+    border-radius: 6px;
+}
+li.copyright {
+    
+    margin-left: 414px;
+    color: #4b194c;
+}
+button.MuiButtonBase-root.MuiFab-root.MuiFab-secondary {
+    width: 33px;
+    position: relative;
+    top: 31px;
+    left: 43px;
+    height: 22px;
+    font-size: 14px;
+    background-color: #f6f6f6 !important;
+}
+
+.app-header.header-text-light .app-header__logo .logo-src {
+    width: 146px !important;
+    background-repeat: no-repeat;
+    background: url(https://i.imgur.com/VsIfiEG.png);
+    
+    height: 54px !important;
+    background-size: 145px !important;
+    margin-left: 21px !important;
+}
+
+
+button.MuiButtonBase-root.MuiFab-root.MuiFab-secondary:hover {
+    background-color: #782e45 !important;
+}
+
+i.fas.fa-camera {
+    color: gray !important;
+}
+
+i.fas.fa-ban {
+    color: red;
+}
+
+i.fas.fa-unlock-alt {
+    color: #18ca18;
+}
+
+.notification-success {
+    margin-top: 63px !important;
+    background-color: #ed6736 !important;
+    width: 82% !important;
+   
+    margin-left: 45px !important;
+}
+
+.notification-error {
+    margin-top: 342px !important;
+    background-color: #bd362f;
+    width: 80% !important;
+    margin-left: 22px !important;
+}
